@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>gotop</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="トップページと共通パーツ" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-2" fill="#4C4948" x="0" y="0" width="64" height="64"></rect>
+        <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" transform="translate(32.000000, 32.000000) rotate(-90.000000) translate(-32.000000, -32.000000) " points="20 14.425 22.5875 12 44 32 22.5875 52 20 49.5875 38.8125 32"></polygon>
+    </g>
+</svg>
